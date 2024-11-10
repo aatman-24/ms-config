@@ -2,7 +2,7 @@ build:
     version: "3.0.0"
 
 loans:
-    message: "Welcome to MS loans related local APIs - QA "
+    message: "Welcome to MS loans related local APIs - QA10"
     contactDetails:
         name: "John Doe - QA"
         email: "john@eazybank.com"
