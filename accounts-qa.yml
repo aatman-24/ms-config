@@ -2,7 +2,7 @@ build:
     version: "2.0.0"
 
 accounts:
-    message: "Welcome to MS accounts related local APIs - QA"
+    message: "Welcome to MS accounts related local APIs - QA2"
     contactDetails:
         name: "John Doe - QA"
         email: "john@eazybank.com"
